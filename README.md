@@ -1,8 +1,13 @@
 # YN-CSP-Senior2025
 云南2025年CSP-S代码公示文件。
 
-当然，我不是官方，可能不准。请理性看待，仅供参考。
+密码：`coz2+qdUmoZ8KYjuA9gvXQ==`
 
-部分信息：共统计到 $10$ 个 `d41d8cd98f00b204e9800998ecf8427e`
+您可以自己解密，这里是 linux 解压示例：
 
-编号最大值 $476$，但共统计到 $3506$ 个 `|`，算上 `d41d8cd98f00b204e9800998ecf8427e` 的，今年白卷不少。
+```
+sudo apt update
+sudo apt install unrar p7zip-full unar
+cd /home/noi   #更换为你的压缩包所在目录
+unrar x -pcoz2+qdUmoZ8KYjuA9gvXQ== YN-Senior公示.rar
+```
