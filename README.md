@@ -8,6 +8,7 @@
 ```
 sudo apt update
 sudo apt install unrar p7zip-full unar
-cd /home/noi   #更换为你的压缩包所在目录
+cd /home/noi
+#更换为你的压缩包所在目录
 unrar x -pcoz2+qdUmoZ8KYjuA9gvXQ== YN-Senior公示.rar
 ```
